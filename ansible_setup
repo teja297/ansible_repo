@@ -1,4 +1,4 @@
-
+by usingansible we push the configurations in to grp of servers simultaneously
 
 Ansible Installation
 
@@ -127,3 +127,5 @@ vi  /etc/ansible/hosts
 "to use the 'ssh' connection type with passwords, you must install the sshpass program
 
 $ sudo yum install -y http://mirror.centos.org/centos/7/extras/x86_64/Packages/sshpass-1.06-2.el7.x86_64.rpm
+
+
