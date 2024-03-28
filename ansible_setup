@@ -43,7 +43,7 @@ Ansible Installation
        sudo yum install python3 -y
 
 3)   Verify Python Version
-         python --version
+         python3 --version
 
 4)   install pip
        sudo yum install python-pip
