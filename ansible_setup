@@ -17,8 +17,6 @@ Ansible Installation  in Amazon Linux
 
  
 
- 
-
 sudo yum install python3 -y
 
 sudo yum install python-pip
