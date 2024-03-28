@@ -41,15 +41,19 @@ Ansible Installation
       
 2)     Install python
        sudo yum install python3 -y
-      
-3)    Update python alaternatives
-       sudo alternatives --set python /usr/bin/python3
-      
-4)    Verify Python Version
+
+3)   Verify Python Version
          python --version
+
+4)   install pip
+       sudo yum install python-pip
+
+5) switch to ansible user
+        su - ansible
  
-5)    Install ansible using Yum 
-sudo yum -y install ansible
+6)    Install ansible using pip 
+        pip install ansible
+
       
 6)    Verify Ansible version
        ansible --version
