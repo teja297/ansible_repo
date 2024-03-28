@@ -6,7 +6,7 @@ Ansible Installation  in Amazon Linux
 sudo yum install python3 -y
 
 sudo yum install python-pip
-
+su - ansible
 pip install ansible
 
 pip install boto3
