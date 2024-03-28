@@ -1,0 +1,7 @@
+#create 3 linux servers
+#one ansible
+#2 host machines
+
+#creating the same user in all 3 servers
+ #connect to all servers parallel
+#1)
