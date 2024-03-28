@@ -1,32 +1,5 @@
 
 
-Ansible Installation  in Amazon Linux
- 
-
-sudo yum install python3 -y
-
-sudo yum install python-pip
-su - ansible
-pip install ansible
-
-pip install boto3
-pip install botocore
- 
-
-at February 11, 2024 
-Email This
-BlogThis!
-Share to Twitter
-Share to Facebook
-Share to Pinterest
-Labels: Ansible
-Monday, September 16, 2019
-Install Ansible in AWS EC2 Redhat Server - Mithun Technologoes +91-9980923226
- 
- 
-  Mithun Technologies            +91-9980923226              devopstrainingblr@gmail.com
-                                                       http://mithuntechnologies.com/
-                                                       http://mithuntechnologies.co.in/ 
 Ansible Installation
 
 1) Create RedHat 3 Servers (1-AnsibleServer , 2- Host Machines for demo) in AWS.
