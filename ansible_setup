@@ -1,4 +1,5 @@
-by usingansible we push the configurations in to grp of servers simultaneously
+by using ansible we push the configurations in to grp of servers simultaneously
+ansible has the agentless mechanism where the cheff & puppet are the client server mechanism
 
 Ansible Installation
 
