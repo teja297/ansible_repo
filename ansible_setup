@@ -1,20 +1,6 @@
-#create 3 linux servers
-#one ansible
-#2 host machines
-
-#creating the same user in all 3 servers
- #connect to all servers parallel
-#1)    1  sudo useradd ansible
-    2  sudo passwd ansible
-    3  visudo
-    4  vi /etc/ssh/sshd_config
-    5  service sshd restart
-
 
 
 Ansible Installation  in Amazon Linux
- 
-
  
 
 sudo yum install python3 -y
